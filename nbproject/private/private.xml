@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/test/com/demo/webdemo/test/producttest/InsertTest.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/web/personal-info.jsp</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/webdemo/controller/UserController.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/wedemo/model/Product1.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/wedemo/model/Product.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/wedemo/model/UserModel.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/webdemo/controller/IndexController.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/webdemo/dao/Product1Dao.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/webdemo/dao/AddUserDao.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/webdemo/dao/ProductDao.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/src/java/org/demo/webdemo/dbconnection/DBConnection.java</file>
+            <file>file:/F:/net/NetBeansProjects/WebDemo/web/product.jsp</file>
+        </group>
+    </open-files>
+</project-private>
